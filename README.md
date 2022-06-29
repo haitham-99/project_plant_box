@@ -1,1 +1,2 @@
 # Project-plant-Box
+The main intention of “Smart plant Box application and plant box” is to help people to grow their own food and seasonal vegetables such as Mushroom with no experience with farming and with no interact throw growing process due to the huge climate change and the due to the agricultural area is gradually decreasing. they can control and monitor their own plants from any android smartphone’s by using the application they can buy plant boxes and start a step on the way of healthy life.
